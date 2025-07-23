@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    * {
+        @apply font-openSans;
+    }
+
+    html,
+    body {
+        @apply font-openSans;
+    }
+
+    html {
+        @apply scroll-smooth;
+    }
+}
+
+@layer utilities {
+    .no-scrollbar::-webkit-scrollbar {
+        display: none;
+    }
+
+    .no-scrollbar {
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+    }
+
+    * {
+        @apply font-openSans;
+    }
+}
