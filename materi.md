@@ -1,10 +1,6 @@
-**Jawaban/Materi terkait**
+#1. Elemen: Mengidentifikasi Elemen Strategi Pemasaran Organisasi**
 
-**1. Elemen: Mengidentifikasi Elemen Strategi Pemasaran Organisasi**
-
-**📌 1.1 Definisi Segmentasi, Targeting, dan Positioning**
-
-**1.1 Definisi Segmentasi, Targeting, dan Positioning**
+##📌 1.1 Definisi Segmentasi, Targeting, dan Positioning
 
 **🧠 Materi:**
 
@@ -30,7 +26,7 @@
 
 - Google Trends
 
-**📌 1.2 Segmentasi Organisasi Diuraikan Sesuai Strategi**
+##📌 1.2 Segmentasi Organisasi Diuraikan Sesuai Strategi
 
 **🧠 Materi:**
 
@@ -50,7 +46,7 @@
 Perusahaan fashion muslim memilih segmen wanita usia 20--35 tahun di
 kota besar pengguna Instagram.
 
-**📌 1.3 Target Segmen Diidentifikasi untuk Strategi Pemasaran**
+##📌 1.3 Target Segmen Diidentifikasi untuk Strategi Pemasaran
 
 **🧠 Materi:**
 
@@ -73,7 +69,7 @@ kota besar pengguna Instagram.
 - Pilih target segmen yang spesifik → "Ibu rumah tangga usia 30--40
   tahun yang tertarik pada parenting dan belanja online."
 
-**📌 1.4 Positioning Dijabarkan Sesuai Strategi Organisasi**
+##📌 1.4 Positioning Dijabarkan Sesuai Strategi Organisasi
 
 **🧠 Materi:**
 
@@ -96,9 +92,9 @@ kota besar pengguna Instagram.
 
 - Brand Positioning Map
 
-**2. Elemen: Mengidentifikasi Elemen Taktik Pemasaran Organisasi**
+#2. Elemen: Mengidentifikasi Elemen Taktik Pemasaran Organisasi
 
-**📌 2.1 Definisi Diferensiasi, Bauran Pemasaran, dan Penjualan**
+##📌 2.1 Definisi Diferensiasi, Bauran Pemasaran, dan Penjualan
 
 **🧠 Materi:**
 
@@ -123,7 +119,7 @@ kota besar pengguna Instagram.
 
   - Pendekatan: hard selling, soft selling, funnel (Awareness → Action)
 
-**📌 2.2 Kerangka Diferensiasi: Infrastructure, Content, Context**
+##📌 2.2 Kerangka Diferensiasi: Infrastructure, Content, Context
 
 **🧠 Materi:**
 
@@ -151,7 +147,7 @@ kota besar pengguna Instagram.
 - Konten bagus tanpa konteks = gagal → pastikan cocok dengan timing &
   audiens.
 
-**📌 2.3 Elemen Bauran Pemasaran Dijabarkan**
+##📌 2.3 Elemen Bauran Pemasaran Dijabarkan
 
 **🧠 Materi:**
 
@@ -169,7 +165,7 @@ kota besar pengguna Instagram.
 
 - **Physical Evidence**: Packaging, testimoni, tampilan profil bisnis
 
-**📌 2.4 Tipe Pendekatan Penjualan Diidentifikasi**
+##📌 2.4 Tipe Pendekatan Penjualan Diidentifikasi
 
 **🧠 Materi:**
 
@@ -189,7 +185,7 @@ kota besar pengguna Instagram.
 - **Consultative Selling**: Menawarkan solusi spesifik sesuai kebutuhan
   klien
 
-**3. Elemen: Mengidentifikasi Elemen Nilai Pemasaran Organisasi**
+##3. Elemen: Mengidentifikasi Elemen Nilai Pemasaran Organisasi
 
 **📌 3.1 Definisi Brand, Service, Process**
 
@@ -202,7 +198,7 @@ kota besar pengguna Instagram.
 - **Process**: Alur operasional pemasaran, dari penawaran hingga
   delivery
 
-**📌 3.2 Ekuitas Merek dan Elemen Pembentuknya**
+##📌 3.2 Ekuitas Merek dan Elemen Pembentuknya
 
 **🧠 Materi:**
 
@@ -217,7 +213,7 @@ kota besar pengguna Instagram.
 
   - **Brand Loyalty**: Kesetiaan pelanggan
 
-**📌 3.3 Dimensi Kualitas Layanan (Service Quality)**
+##📌 3.3 Dimensi Kualitas Layanan (Service Quality)
 
 **🧠 Materi:**
 
@@ -233,7 +229,7 @@ Model **RATER**:
 
 5.  **Responsiveness**: Tanggap & cepat merespons
 
-**📌 3.4 Konsep Quality, Cost, Delivery (QCD)**
+##📌 3.4 Konsep Quality, Cost, Delivery (QCD)
 
 **🧠 Materi:**
 
@@ -243,9 +239,9 @@ Model **RATER**:
 
 - **Delivery**: Kecepatan pengiriman, waktu respon CS
 
-**4. Elemen: Berkomunikasi dengan Pelanggan secara Daring**
+#4. Elemen: Berkomunikasi dengan Pelanggan secara Daring
 
-**📌 4.1 Alat Komunikasi Digital Digunakan Sesuai Standar**
+##📌 4.1 Alat Komunikasi Digital Digunakan Sesuai Standar
 
 **🧠 Materi:**
 
@@ -270,7 +266,7 @@ Model **RATER**:
 Membalas pertanyaan produk melalui DM Instagram dengan sapaan,
 penjelasan, dan CTA ("Silakan klik link ini untuk beli ya, Kak 😊").
 
-**📌 4.2 Komunikasi Daring Menggunakan Bahasa Sopan dan Tepat Waktu**
+##📌 4.2 Komunikasi Daring Menggunakan Bahasa Sopan dan Tepat Waktu**
 
 **🧠 Materi:**
 
@@ -286,7 +282,7 @@ penjelasan, dan CTA ("Silakan klik link ini untuk beli ya, Kak 😊").
 
   - Fast response jadi keunggulan pelayanan digital
 
-**📌 4.3 Tata Bahasa dan Ejaan yang Benar dalam Komunikasi Tertulis**
+##📌 4.3 Tata Bahasa dan Ejaan yang Benar dalam Komunikasi Tertulis**
 
 **🧠 Materi:**
 
@@ -305,7 +301,7 @@ penjelasan, dan CTA ("Silakan klik link ini untuk beli ya, Kak 😊").
 "Mohon maaf, pengiriman belum dapat dilakukan hari ini karena antrian
 penuh. Akan kami proses secepatnya besok 😊"
 
-**📌 4.4 Peluang Memperbaiki Layanan Berdasarkan Hasil Komunikasi**
+##📌 4.4 Peluang Memperbaiki Layanan Berdasarkan Hasil Komunikasi**
 
 **🧠 Materi:**
 
@@ -317,7 +313,7 @@ penuh. Akan kami proses secepatnya besok 😊"
 
   - Jika respon terlalu lambat → tambah staf CS
 
-**📌 4.5 Promosi Kesetiaan Pelanggan (Customer Loyalty) Saat
+##📌 4.5 Promosi Kesetiaan Pelanggan (Customer Loyalty) Saat
 Berkomunikasi**
 
 **🧠 Materi:**
@@ -336,7 +332,7 @@ Berkomunikasi**
 > "Terima kasih sudah order lagi, Kak. Kami beri voucher potongan 10% ya
 > untuk pembelian berikutnya 😊"
 
-**📌 4.6 Pantau Permintaan Pelanggan untuk Jamin Ketersediaan Produk**
+##📌 4.6 Pantau Permintaan Pelanggan untuk Jamin Ketersediaan Produk**
 
 **🧠 Materi:**
 
@@ -350,7 +346,7 @@ Berkomunikasi**
 
   - Fitur WhatsApp Business tag/chat label
 
-**📌 4.7 Dokumentasikan Interaksi dan Feedback Sesuai Prosedur**
+##📌 4.7 Dokumentasikan Interaksi dan Feedback Sesuai Prosedur**
 
 **🧠 Materi:**
 
@@ -366,7 +362,7 @@ Berkomunikasi**
 
   - Bukti jika ada dispute/masalah
 
-**📌 4.8 Minta Peringkat dan Testimoni dari Pelanggan**
+##📌 4.8 Minta Peringkat dan Testimoni dari Pelanggan**
 
 **🧠 Materi:**
 
@@ -382,7 +378,7 @@ Berkomunikasi**
 
   - Bukti sosial
 
-**📌 4.9 Sampaikan Saran Peningkatan Layanan kepada Tim**
+##📌 4.9 Sampaikan Saran Peningkatan Layanan kepada Tim**
 
 **🧠 Materi:**
 
@@ -394,10 +390,10 @@ Berkomunikasi**
 
   - UI website membingungkan? → Koordinasikan ke developer/designer
 
-**5. Elemen: Menanggapi Kesulitan Pelanggan secara Daring**
+#5. Elemen: Menanggapi Kesulitan Pelanggan secara Daring
 
-**📌 5.1 Identifikasi Kesulitan Pelanggan & Berikan Bantuan Sesuai
-Prosedur**
+##📌 5.1 Identifikasi Kesulitan Pelanggan & Berikan Bantuan Sesuai
+Prosedur
 
 **🧠 Materi:**
 
@@ -418,8 +414,8 @@ Prosedur**
   - Gunakan **SOP layanan** → misalnya balas \< 1 jam, log keluhan,
     follow up
 
-**📌 5.2 Identifikasi Kekecewaan & Tindaklanjuti dengan Cepat dan
-Tepat**
+##📌 5.2 Identifikasi Kekecewaan & Tindaklanjuti dengan Cepat dan
+Tepat
 
 **🧠 Materi:**
 
@@ -436,7 +432,7 @@ Tepat**
 
   - Tawarkan solusi cepat → refund, penggantian, kupon
 
-**📌 5.3 Patuh Terhadap Standar & Prosedur Layanan Pelanggan Daring**
+##📌 5.3 Patuh Terhadap Standar & Prosedur Layanan Pelanggan Daring
 
 **🧠 Materi:**
 
@@ -450,7 +446,7 @@ Tepat**
 
 - Layanan profesional = memperkuat brand
 
-**📌 5.4 Keluhan Dirujuk ke Tenaga yang Sesuai**
+##📌 5.4 Keluhan Dirujuk ke Tenaga yang Sesuai**
 
 **🧠 Materi:**
 
@@ -469,7 +465,7 @@ Tepat**
 > "Masalah ini akan segera kami teruskan ke tim terkait ya, mohon
 > ditunggu maksimal 1x24 jam, Kak 🙏"
 
-**📌 5.5 Sikap Profesional Saat Interaksi Daring**
+##📌 5.5 Sikap Profesional Saat Interaksi Daring**
 
 **🧠 Materi:**
 
@@ -482,7 +478,7 @@ Tepat**
 - Hindari balasan singkat tanpa konteks ("OK", "Ya", "Itu bukan urusan
   kami" ❌)
 
-**📌 5.6 Identifikasi Potensi Masalah & Laporkan Secara Proaktif**
+##📌 5.6 Identifikasi Potensi Masalah & Laporkan Secara Proaktif**
 
 **🧠 Materi:**
 
@@ -501,9 +497,9 @@ Tepat**
 
   - Chat grup tim operasional
 
-**8. Elemen: Menentukan Pesan Utama Kampanye Pemasaran**
+#8. Elemen: Menentukan Pesan Utama Kampanye Pemasaran
 
-**📌 8.1 Tentukan Ide Besar (Core Concept) & Proposisi Nilai**
+##📌 8.1 Tentukan Ide Besar (Core Concept) & Proposisi Nilai
 
 **🧠 Materi:**
 
@@ -527,7 +523,7 @@ Core message: "Kulit sehat alami tanpa bahan kimia."
 Value proposition: "Perawatan kulit dari bahan alami yang aman bahkan
 untuk kulit sensitif."
 
-**📌 8.2 Tentukan Jenis Khalayak Sasaran**
+##📌 8.2 Tentukan Jenis Khalayak Sasaran
 
 **🧠 Materi:**
 
@@ -545,7 +541,7 @@ untuk kulit sensitif."
 
   - Google Analytics (Audience → Demographics)
 
-**📌 8.3 Rumuskan Respon Khalayak yang Diharapkan**
+##📌 8.3 Rumuskan Respon Khalayak yang Diharapkan
 
 **🧠 Materi:**
 
@@ -567,7 +563,7 @@ Target respon: klik link + beli
 
 **9. Elemen: Mengarahkan Konsep Pendekatan dan Media Kreatif**
 
-**📌 9.1 Kumpulkan Data Produk dan Sesuaikan dengan Khalayak**
+##📌 9.1 Kumpulkan Data Produk dan Sesuaikan dengan Khalayak
 
 **🧠 Materi:**
 
@@ -583,7 +579,7 @@ Target respon: klik link + beli
 
   - Profesional: formal, to the point
 
-**📌 9.2 Rumuskan Tujuan Kreatif**
+##📌 9.2 Rumuskan Tujuan Kreatif
 
 **🧠 Materi:**
 
@@ -595,7 +591,7 @@ Target respon: klik link + beli
 > "Menjadikan produk terlihat eksklusif dan kekinian di mata pengguna
 > TikTok usia 18--25."
 
-**📌 9.3 Rumuskan Tujuan Media**
+##📌 9.3 Rumuskan Tujuan Media
 
 **🧠 Materi:**
 
@@ -613,7 +609,7 @@ Target respon: klik link + beli
 
 - Minimal 1 bulan campaign continuity untuk brand awareness
 
-**📌 9.4 Tetapkan Bentuk Pesan Iklan: Verbal & Visual**
+##📌 9.4 Tetapkan Bentuk Pesan Iklan: Verbal & Visual
 
 **🧠 Materi:**
 
@@ -623,8 +619,7 @@ Target respon: klik link + beli
 
 - Gunakan elemen yang konsisten dengan brand
 
-**📌 9.5 Koordinasikan Data Produk, Khalayak, dan Pesan dengan Tim
-Kreatif & Media**
+##📌 9.5 Koordinasikan Data Produk, Khalayak, dan Pesan dengan Tim Kreatif & Media
 
 **🧠 Materi:**
 
@@ -638,9 +633,9 @@ Kreatif & Media**
 
 - Tujuannya: biar output kampanye selaras dengan tujuan pemasaran
 
-**10. Elemen: Menentukan Parameter Evaluasi**
+#10. Elemen: Menentukan Parameter Evaluasi**
 
-**📌 10.1 Tentukan Rencana Evaluasi Kampanye**
+##📌 10.1 Tentukan Rencana Evaluasi Kampanye**
 
 **🧠 Materi:**
 
@@ -663,7 +658,7 @@ Kreatif & Media**
 
   - Social media insight
 
-**📌 10.2 Tentukan Indikator Keberhasilan sebagai Dasar Analisis**
+##📌 10.2 Tentukan Indikator Keberhasilan sebagai Dasar Analisis**
 
 **🧠 Materi:**
 
@@ -682,7 +677,7 @@ Kreatif & Media**
 Kampanye IG Reels selama 2 minggu  
 Target: 50.000 views dan 3.000 klik link → itu jadi KPI-nya
 
-**📌 10.3 Gunakan Hasil Evaluasi untuk Rekomendasi dan Program
+##📌 10.3 Gunakan Hasil Evaluasi untuk Rekomendasi dan Program
 Lanjutan**
 
 **🧠 Materi:**
@@ -703,10 +698,9 @@ Lanjutan**
 
 - Rekomendasi jadi acuan kampanye berikutnya
 
-**11. Elemen: Merencanakan Strategi Kreatif**
+#11. Elemen: Merencanakan Strategi Kreatif**
 
-**📌 11.1 Kumpulkan, Olah, dan Interpretasi Data untuk Penetapan Inti
-Pesan**
+##📌 11.1 Kumpulkan, Olah, dan Interpretasi Data untuk Penetapan Inti Pesan
 
 **🧠 Materi:**
 
@@ -725,7 +719,7 @@ Pesan**
 > \"Konsumen suka makanan praktis, tapi tetap sehat → Pesan utama:
 > 'Makan sehat, tanpa ribet.'\"
 
-**📌 11.2 Rumuskan Strategi Kreatif untuk Penetrasi Pesan**
+##📌 11.2 Rumuskan Strategi Kreatif untuk Penetrasi Pesan
 
 **🧠 Materi:**
 
@@ -757,9 +751,9 @@ Pesan**
 
 - Influencer lokal merekomendasikan di story
 
-**13. Elemen: Membuat Desain Iklan**
+#13. Elemen: Membuat Desain Iklan**
 
-**📌 13.1 Siapkan Materi Sesuai Ide yang Telah Diidentifikasi**
+##📌 13.1 Siapkan Materi Sesuai Ide yang Telah Diidentifikasi**
 
 **🧠 Materi:**
 
@@ -787,8 +781,7 @@ Pesan**
 
 - Pinterest (referensi visual)
 
-**📌 13.2 Implementasikan Ide Secara Visual agar Mudah Dicerna &
-Menarik**
+##📌 13.2 Implementasikan Ide Secara Visual agar Mudah Dicerna & Menarik**
 
 **🧠 Materi:**
 
@@ -814,9 +807,9 @@ Produk: Kopi literan
 Visual: Gambar close-up gelas es kopi + headline \"Kopi segar tiap pagi?
 Tinggal tuang aja!\" + tombol "Pesan Sekarang"
 
-**14. Elemen: Mempresentasikan Ide Kreatif**
+#14. Elemen: Mempresentasikan Ide Kreatif
 
-**📌 14.1 Persiapkan Materi Eksekusi Ide Kreatif**
+##📌 14.1 Persiapkan Materi Eksekusi Ide Kreatif
 
 **🧠 Materi:**
 
@@ -840,8 +833,7 @@ Tinggal tuang aja!\" + tombol "Pesan Sekarang"
 
   - Contoh caption dan headline
 
-**📌 14.2 Presentasikan Materi untuk Sinkronisasi dengan Klien atau
-Tim**
+##📌 14.2 Presentasikan Materi untuk Sinkronisasi dengan Klien atau Tim
 
 **🧠 Materi:**
 
@@ -862,9 +854,9 @@ Tim**
 > "Mengapa kamu pakai warna ini?", "Kenapa formatnya reels, bukan
 > carousel?"
 
-**15. Elemen: Merencanakan Eksekusi Iklan**
+#15. Elemen: Merencanakan Eksekusi Iklan**
 
-**📌 15.1 Siapkan Referensi sebagai Bahan Eksekusi Pesan**
+📌 15.1 Siapkan Referensi sebagai Bahan Eksekusi Pesan
 
 **🧠 Materi:**
 
@@ -878,7 +870,7 @@ Tim**
 
 - Kumpulkan referensi dalam moodboard atau file presentasi
 
-**📌 15.2 Evaluasi & Pilih Vendor untuk Produksi Konten (Jika Ada)**
+##📌 15.2 Evaluasi & Pilih Vendor untuk Produksi Konten (Jika Ada)
 
 **🧠 Materi:**
 
@@ -906,10 +898,9 @@ Tim**
 
   - Format akhir (16:9 atau 9:16)
 
-**16. Elemen: Mengumpulkan Informasi Data Media yang Sesuai untuk
-Klien**
+#16. Elemen: Mengumpulkan Informasi Data Media yang Sesuai untuk Klien
 
-**📌 16.1 Tetapkan Kriteria Sumber Informasi Media**
+##📌 16.1 Tetapkan Kriteria Sumber Informasi Media
 
 **🧠 Materi:**
 
@@ -931,7 +922,7 @@ Klien**
 
   - Media lokal, website niche komunitas
 
-**📌 16.2 Kumpulkan Data Media Sesuai Kebutuhan**
+##📌 16.2 Kumpulkan Data Media Sesuai Kebutuhan**
 
 **🧠 Materi:**
 
@@ -951,10 +942,9 @@ Klien**
 
   - TikTok Creator Marketplace
 
-**✅ 17. Elemen: Melakukan Analisis Informasi Data yang Telah
-Dikumpulkan**
+#17. Elemen: Melakukan Analisis Informasi Data yang Telah Dikumpulkan
 
-**📌 17.1 Siapkan Data untuk Pemilihan Media**
+##📌 17.1 Siapkan Data untuk Pemilihan Media**
 
 **🧠 Materi:**
 
@@ -965,7 +955,7 @@ Dikumpulkan**
   - Misal: TikTok = reach tinggi, biaya rendah; Instagram = engagement
     bagus
 
-**📌 17.2 Analisis Data → Tentukan Jangkauan, Frekuensi, Penjadwalan**
+##📌 17.2 Analisis Data → Tentukan Jangkauan, Frekuensi, Penjadwalan**
 
 **🧠 Materi:**
 
@@ -980,9 +970,9 @@ Dikumpulkan**
   - Durasi kampanye → pendek (boost post) atau panjang (awareness
     builder)
 
-**✅ 18. Elemen: Menyusun Strategi Penggunaan Media**
+#18. Elemen: Menyusun Strategi Penggunaan Media**
 
-**📌 18.1 Rencanakan Penggunaan Media Iklan Sesuai Tujuan**
+##📌 18.1 Rencanakan Penggunaan Media Iklan Sesuai Tujuan**
 
 **🧠 Materi:**
 
@@ -1002,7 +992,7 @@ Dikumpulkan**
 
   - Konten yang diproduksi
 
-**📌 18.2 Susun Strategi Kampanye agar Tujuan Media Tercapai**
+##📌 18.2 Susun Strategi Kampanye agar Tujuan Media Tercapai**
 
 **🧠 Materi:**
 
@@ -1020,9 +1010,9 @@ Dikumpulkan**
 
   - Format media (gambar, video, carousel)
 
-**✅ 19. Elemen: Memilih Media yang Sesuai**
+#19. Elemen: Memilih Media yang Sesuai**
 
-**📌 19.1 Siapkan Data untuk Klasifikasi Media (Utama/Pendukung)**
+##📌 19.1 Siapkan Data untuk Klasifikasi Media (Utama/Pendukung)**
 
 **🧠 Materi:**
 
@@ -1040,7 +1030,7 @@ Dikumpulkan**
 
   - Kemampuan interaksi (comment, click)
 
-**📌 19.2 Pilih Media Sesuai Produk dan Target**
+##📌 19.2 Pilih Media Sesuai Produk dan Target**
 
 **🧠 Materi:**
 
@@ -1066,9 +1056,9 @@ Dikumpulkan**
 
   - IG: branding visual kuat
 
-**20. Elemen: Membuat Perhitungan Return on Customer Investment (ROCI)**
+#20. Elemen: Membuat Perhitungan Return on Customer Investment (ROCI)**
 
-**📌 20.1 Siapkan Informasi Total Biaya Iklan & Nilai Iklan**
+##📌 20.1 Siapkan Informasi Total Biaya Iklan & Nilai Iklan**
 
 **🧠 Materi:**
 
@@ -1089,7 +1079,7 @@ Dikumpulkan**
   - **Kenaikan awareness/engagement** (diukur dengan nilai estimasi jika
     tidak menggunakan iklan)
 
-**📌 20.2 Tentukan Metode Perhitungan ROCI**
+##📌 20.2 Tentukan Metode Perhitungan ROCI**
 
 **🧠 Materi:**
 
@@ -1113,7 +1103,7 @@ Dikumpulkan**
 
   - Google Ads Conversion Tracker
 
-**📌 20.3 Hitung ROCI dan Kaitkan ke Tujuan Bisnis**
+##📌 20.3 Hitung ROCI dan Kaitkan ke Tujuan Bisnis**
 
 **🧠 Materi:**
 
