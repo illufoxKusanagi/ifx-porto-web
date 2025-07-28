@@ -314,4 +314,4 @@ Contoh: TikTok & Instagram untuk Gen Z, TV & radio untuk segmen umum.
 * Update FAQ atau panduan pengguna agar pelanggan bisa menghindari kesalahan yang sama.
 * Latih tim layanan pelanggan untuk menangani kasus serupa dengan lebih baik.
 
-![Test](<WhatsApp Image 2025-07-28 at 09.29.48_d4c197dc.jpg>)
+![WhatsApp Image 2025-07-28 at 09 29 48_d4c197dc](https://github.com/user-attachments/assets/9539652a-9c1b-4c0b-930a-2e4f37fc8fbe)
